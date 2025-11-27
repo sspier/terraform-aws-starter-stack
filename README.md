@@ -1,6 +1,6 @@
 # terraform-aws-starter-stack
 
-A small Terraform project to learn the basics of infrastructure as code using AWS.
+A Hello World of Terraform.
 
 - This version creates a single EC2 instance in the default VPC using Terraform. The instance runs a tiny HTTP server that serves a simple hello page.
 
